@@ -1,14 +1,10 @@
-# Personalised-COVID-Dashboard
-University Project
 ECM1400 Continuous Assessment 
 
 IMPORTANT NOTE:
 
 When you run the Flask section it will print the link to the logging.log file so you will have to copy and paste it into a web browser to access it. It might take a short while to load and won't load it up if you are currently viewing the logging.log file. You need to be viewing something else for it to show. Then you are able to copy and paste the link into a browser.
 
-Github link:
-
-
+Github link: https://github.com/RaftRunner/Personalised-COVID-Dashboard/tree/main
 
 
 
